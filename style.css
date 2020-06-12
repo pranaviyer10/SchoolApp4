@@ -1,0 +1,40 @@
+h1 {
+    color: whitesmoke;
+}
+
+.header {
+    background-color: teal;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+.href {
+    background-color: slategray;
+    align-content: space-between;
+    margin-top: 10px;
+}
+
+a:link {
+    color: red;
+}
+
+a:visited {
+    color: maroon;
+}
+
+.p {
+    color: black;
+    background-color: #15d31593;
+    justify-content: space-evenly;
+}
+
+.a {
+    background-color: #17a5d4;
+}
+
+.b {
+    background-color: #17a5d4;
+}
+.c {
+    background-color: #17a5d4;
+}
